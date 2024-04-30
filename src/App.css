@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.App h1 {
+  margin: 30px auto;
+}
+
+.btn {
+  margin: 2px;
+}
+
+.divbtn {
+  float: left;
+}
+
+.table {
+  margin-top: 60px;
+  width: 100%;
+}
+
+.pagination-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.card-title h2 {
+  margin-top: 20px;
+}
